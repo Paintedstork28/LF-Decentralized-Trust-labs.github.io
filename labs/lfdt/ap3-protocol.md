@@ -1,7 +1,9 @@
+---                                         
 layout: default
-title: AP3 Protocol                         
-parent: LFDT Labs                       
+title: AP3 Protocol
+parent: LFDT Labs
 grand_parent: Approved Labs
+---  
                                                                                                                                                                                                       
 # Lab Name                                  
 1. [AP3 Protocol](https://github.com/Paintedstork28/ap3-protocol) 
