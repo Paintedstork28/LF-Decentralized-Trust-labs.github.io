@@ -13,7 +13,7 @@ AP3 is an open protocol for privacy-preserving computation in agentic commerce. 
                                                             
 # Scope of Lab 
 
-AP3 is the privacy layer for agentic commerce — enabling agents to compute on sensitive data and return verifiable answers without any party ever reading the underlying input
+AP3 is the privacy layer for agentic commerce, enabling agents to compute on sensitive data and return verifiable answers without any party ever reading the underlying input
 
 ## What is the problem that AP3 solves?
 
@@ -44,12 +44,11 @@ Enter AP3. When sensitive data is exchanged inside an A2A message, such as incom
 
 AP3 is built on Multi-Party Computation (MPC), Zero-Knowledge Proofs (ZKP), and Zero-Knowledge TLS (zkTLS). It is designed as composable infrastructure for any A2A compliant agent framework.               
 
-All specifications contributed to this Lab will be subject to the [Community Specification License](https://spdx.org/licenses/Community-Spec-1.0.html); and all accompanying reference implementations will  
-be licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).                                                                                                                                 
+All specifications contributed to this Lab will be subject to the [Community Specification License](https://spdx.org/licenses/Community-Spec-1.0.html); and all accompanying reference implementations will be licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).                                                                                                                                 
 # Initial Committers
 
-- https://github.com/[handle1]
-- https://github.com/[handle1]                   
+- https://github.com/ XX
+- https://github.com/ XX                
 
 # Sponsor
 
