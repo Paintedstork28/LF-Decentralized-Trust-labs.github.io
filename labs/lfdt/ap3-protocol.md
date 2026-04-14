@@ -4,8 +4,8 @@ parent: LFDT Labs
 grand_parent: Approved Labs
                                                                                                                                                                                                       
 # Lab Name                                  
-[AP3 Protocol](https://github.com/Paintedstork28/ap3-protocol) 
-[AP3 example in agent negotiation](https://github.com/silence-laboratories/ap3-crewai-example)
+1. [AP3 Protocol](https://github.com/Paintedstork28/ap3-protocol) 
+2. [AP3 example in agent negotiation](https://github.com/silence-laboratories/ap3-crewai-example)
                                           
 # Short Description                                                                                                                                                                                          
 AP3 is an open protocol for privacy-preserving computation in agentic commerce. It enables AI agents to negotiate, verify, and transact on behalf of users and organisations without the counterparty agent  ever accessing the underlying data.         
